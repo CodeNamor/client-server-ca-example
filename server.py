@@ -10,7 +10,7 @@ import traceback
 #global params
 ##########################################################
 HOST = "127.0.0.1"
-PORT = 8800
+PORT = 4443
 FILE = "index.html"
 ssl_version = None
 certfile = "./ssl/certificate.pem"
